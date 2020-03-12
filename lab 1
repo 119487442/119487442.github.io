@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     <title>Research Lab</title>
+	 <style>
+	 body {
+	 background: blue;
+	 }
+	 div {
+	 background: grey;
+	 }
+	 </style>
+     </head>
+
+     <body>
+	 <h1>Research Lab</h1>
+	 <!-- Hyperautomation -->
+	     <div>
+	           <h2 style="color: red;">Hyperautomation</h2>
+	           <img src="hyper.png" height="300" width="400" />
+	           <p>Hyperautomation is...</p>
+			   <a href="https://opentrons.com" >Click here</a>
+	     </div>
+		 <!-- Multiexperience -->
+	     <div>
+	           <h2 style="color: blue;>MultiExperience</h2>
+	           <img src="multiexp.jpg" height="300" width="400" />
+	           <p>MultiExperience is...</p>
+			   <a href="teletimesinternational.com › gartner-says-the-future-of-app-developm..." >Click here</a>
+	     </div>
+		 <!-- Distributed Cloud -->
+	     <div>
+	           <h2 style="color: green;">Distributed Cloud</h2>
+	           <img src="distrscloud.png" height="300" width="400" />
+	           <p>Distributed Cloud is...</p>
+			   <a href="www.sage.com/‎" ></a>
+         </div>
+     </body>
+</html>
